@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sgic.springboot.SpringBoot_Assmt.SpringBootAssmtApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 112.633 s - in com.sgic.springboot.SpringBoot_Assmt.SpringBootAssmtApplicationTests
